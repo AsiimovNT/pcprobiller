@@ -120,7 +120,3 @@ This repository will use an open-source license. If you have a preference (MIT, 
 ## Contact / discussions
 
 Open issues for discussion on sensor backends, UI ideas, and platform-specific constraints. If you'd like, we can start by scaffolding the Windows prototype and shipping a minimal working build.
-
----
-
-If you'd like, I can now scaffold the Windows C# tray prototype (WinForms) and implement the sampling + price input + a simulated sensor fallback so you can try the UI before we wire the real sensors. Tell me to proceed and I will create the project files and basic implementation.
